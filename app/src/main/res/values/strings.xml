@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">The movie</string>
+    <string name="loading">Loading…</string>
+    <string name="filter_hint">in last … days</string>
+</resources>
